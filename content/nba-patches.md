@@ -4,7 +4,7 @@
 
 For the 2014-15 season, the NBA introduced a [gold patch](http://www.espn.com/nba/story/_/id/11219276/nba-jerseys-now-feature-gold-tabs-collars-indicate-teams-won-titles) to be worn on the back collar of the league's past champions.  Inspired by the World Cup, the patches are a visible reminder of just how hard it is to win an NBA championship.  Nearly half of the league's teams have never done it.  As of the 2017-18 season, 17 of the league's 30 teams wear the patch.  The other 13 do not.  
 
-But League Pass afficiandos will have a counterintuitive reaction to those numbers.  It seems even *fewer* teams should wear them.  Some just don't look right: 
+But League Pass aficionados will have a counterintuitive reaction to those numbers.  It seems even *fewer* teams should wear them.  Some just don't look right: 
 
 ![](./img/nba-patch-kings.png)
 
