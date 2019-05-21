@@ -167,7 +167,7 @@ Six of the league's seventeen gold patches deserve to be revoked.  Two patch-wea
 
 After the patch reshuffling:
 
-### Patches (11x)
+### Patches (11 Teams)
 
 * *Tier 1a: The Perma-Dynasties*
 	* Boston Celtics (16x)
@@ -185,7 +185,7 @@ After the patch reshuffling:
 * *Tier 1d: The Borderline*
 	* Philadelphia 76ers (3x: 1955, 67, 83)
 
-### No Patches (19x)
+### No Patches (19 Teams)
 
 * *Tier 2a: Revoked*
 	* Washington Bullets/ Wizards (1x: 1978)
