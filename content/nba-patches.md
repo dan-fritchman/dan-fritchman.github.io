@@ -1,19 +1,24 @@
-# Who Deserves the NBA's Championship Jersey Patch?
+# Who Deserves the NBA's Gold Patch?
 
 ![](./img/nba-patch-spurs.png)
 
-The nba introduced the gold patch in 2014.  It sends a clear and valuable message: it is hard to win an nba championship.  Nearly half the teams have never done it.  As of the 2018 season, 17 of the leagues 30 teams wear the patch.  The remaining 13 do not.  
+For the 2014-15 season, the NBA introduced a gold patch to be worn on the back collar of the league's past champions.  Inspired by the World Cup, the patches are a visible reminder of just how hard it is to win an NBA championship.  Nearly half the teams have never done it.  As of the 2017-18 season, 17 of the league's 30 teams wear the patch.  The other 13 do not.  
 
-But for the devout fan, this strikes an unexpected nerve: it’s seems that even fewer teams have won championships.  League-pass aficionados cannot help but feel a flicker of doubt upon seeing sights like this: 
+But League Pass afficiandos will have a counterintuitive reaction to those numbers.  It seems even *fewer* teams should have them.  Some just don't look right: 
 
 ![](./img/nba-patch-kings.png)
 
-The tiers:
+*Remember that one?  Me neither.* 
+
+Here, we review each of the 30 teams' claim to the patch.  Based on two *principles for patches*, we find that six of the seventeen patches deserve to be revoked.  Two teams particularly deserve this revocation. 
+
+In the process, we'll create a tiered hierarchy of the league's franchises, based on their historical success.  We find the teams fall in three tiers:
 
 * Tier 1: Undisputed Champions
-* Tier 2: The Disputed
-* Tier 3: No Badges
+* Tier 2: The Disputed Lands
+* Tier 3: No Patch For You
 
+Each of the teams in Tier 1 is listed alongside their number of championships. 
 
 ## Tier 1: Undisputed Champions
 
@@ -22,7 +27,7 @@ The tiers:
 * Boston Celtics (16x)
 * Los Angeles Lakers (16x)
 
-The NBA has always been a league of dynasties.  And nearly from its inception, the league has seen two perma-dynasties in conflict for historical supremacy.  Their success extends through the nbas history, from its earliest days to their modern-era championships in 2008-10. 
+The NBA has always been a league of dynasties.  Nearly from its inception, these two franchises have competed for historical supremacy.  Their success extends through the league's history, from its earliest days to their modern-era championships in 2008-10. 
 
 ### Tier 1b: The Uni-Dynasties
 
@@ -31,8 +36,6 @@ The NBA has always been a league of dynasties.  And nearly from its inception, t
 
 ### Tier 1c: The Modern Champions
 
-In order of recency: 
-
 * Golden State Warriors (6x)
 * Cleveland Cavaliers (1x)
 * Dallas Mavericks (1x)
@@ -40,24 +43,23 @@ In order of recency:
 * Detroit Pistons (3x)
 * Houston Rockets (2x)
 
-The next two tiers illustrate just how difficult it has been to win an NBA championship, and how much more difficult to win more than one or two. 
+These next two sub-tiers illustrate just how difficult it has been to win an NBA championship, and how much more difficult to win more than one or two.  Each of these eight teams has won the championship since 1991, the beginning of the Jordan-Bulls dynastic run. 
 
-One team of this group proves particularly difficult to categorize: the league's ongoing powerhouse, Golden State.  We understand applying of the term “dynasty” to the Spurs and Bulls of Tier 1b, but not to the Warriors of Tier 1c, may prove distracting.  This is not our aim. (GSW may in fact deserve a tier of its own, in between the two.)  While sports media may obsessively debate the definitions of terms such as “dynasty” or “elite”, here we have no such goal.  Our goals are exposing the fraudulent badge-wearers, and celebrating the real ones.  And all of these teams qualify as real.  
+There is also a blurrier line between tiers 1b and 1c.  One team proves particularly difficult to categorize: the league's current powerhouse, Golden State.  Their ongoing string of success (3 championships, 4 Finals appearances from 2015-18), is incredible, but remains both shorter, and includes less championship success, than the runs of Chicago or San Antonio.  
+
+Applying of the term “dynasty” to the Spurs and Bulls, but not to the Warriors, may prove distracting.  This is not our aim. (GSW may in fact deserve a tier of its own, in between 1b and 1c.)  While sports media may obsessively debate the definitions of terms such as “dynasty” or “elite”, we have no such goal.  Our goals are exposing the fraudulent patch-wearers, and celebrating the real ones.  And all of these teams qualify as real.  
 
 
+## Tier 3: No Patch For You
 
-## Tier 3: No Badges
+No, we did not mis-count tiers.  Our interest really lies in Tier 2, with the teams under dispute.  We'll address them in greatest detail last.  First we'll cover the teams in our bottom tier: non-patch-wearers.  Each of the teams without patches is listed alongside the year of their entry into the NBA.  
 
-No, we did not mis-count tiers here.  Our interest really lies in Tier 2, with the teams under dispute.  We'll address them last.  First we'll cover the teams in our bottom tier: non-badge wearers. 
-
-The 13 teams without badges, and their years of entry into the NBA: 
 
 ### Tier 3a: No Patch, *Some* Claim
 
 * Oklahoma City Thunder (1967 / 2008)
 
-Only one non-badge team has a conceivable claim to wearing one.  The Thunder's predecessor, the Seattle Supersonics, won the 1979 championship.  Per their separation terms with Seattle, the OKC franchise owns the Supersonics records, and [reportedly](https://sports.yahoo.com/oklahoma-city-s-thunder-decline-to-celebrate-seattle-s-1979-championship-with-a-jersey-patch-190633234.html?y20=1) were offered the choice of whether to wear the gold patch.  They declined.  And we wholeheartedly agree.
-
+Only one non-patch team has a conceivable claim to wearing one.  The Thunder's predecessor, the Seattle Supersonics, won the 1979 championship.  Per their separation agreement with Seattle, the OKC franchise owns the Supersonics records, and [reportedly](https://sports.yahoo.com/oklahoma-city-s-thunder-decline-to-celebrate-seattle-s-1979-championship-with-a-jersey-patch-190633234.html?y20=1) were offered the choice of whether to wear the gold patch.  They declined.  And we wholeheartedly agree.
 
 ### Tier 3b: The Never-Champions
 
@@ -74,28 +76,27 @@ Only one non-badge team has a conceivable claim to wearing one.  The Thunder's p
 * Memphis Grizzlies (1995)
 * New Orleans Pelicans (2002)
 
-This list really shows how hard it is to win in the NBA.  Of the twelve never-champion franchises, half are relatively modern expansion teams, starting in the 1980s or later.  The other six have had a rough life.  Three of the four teams who moved from the ABA have never won championships (the sole exception being San Antonio).  And three franchises which began even before the ABA merger - Utah, Phoenix, and the Clippers - have never tasted gold. 
-
-
+This list really shows how hard it is to win in the NBA.  Of the twelve never-champion franchises, half are relatively modern expansion teams, starting in the 1980s or later.  The other six teams have had a rough life.  Three of the four teams who moved from the ABA have never won championships (the sole exception being San Antonio).  And three franchises which began even before the ABA merger - Utah, Phoenix, and the Clippers - have never tasted gold. 
 
 
 ## Tier 2: The Disputed Lands
 
-Now that we've established the ten teams which undisptuably deserve the championship patch, and the thirteen which do not, we can dig into the teams at issue. 
+Now that we have established the ten teams which undisptuably deserve the championship patch, and the thirteen which do not, we can dig into the teams at issue.  First we should establish our *principles for patches*.
 
-First, we should establish a set of *principles for patches*.
+* *Rule 1: Moving the team, forfeits rights to previously-earned patches.*
+  * Bill Simmons's *Book of Basketball* includes something like the converse of this rule: once a team wins the title, they cannot move.  These ideas are similar but distinct.  To the extent patch-ineligibility is a punishment, we can think of Rule 1 as an enforcement mechanism for a lighter form of Simmons's rule. 
+  * It is by this rationale that we support Oklahoma City's decision to not wear the patch earned by the 1979 Supersonics. 
+  * Rule 1 won't cover "in-area" moves, such as the Nets short jaunts from New York, to New Jersey, and back to Brooklyn, or the Warriors changes from San Francisco to "Golden State". 
 
-* *Moving or renaming the team, forfeits rights to previously-earned patches.*
-  * This does not include "in-area" moves, such as the Nets from New York, to New Jersey, and back to Brooklyn, or the Warriors changes from San Francisco to "Golden State". 
-* *At some point, championships time out.*
-  * Just *when* is a topic we'll discuss in depth.  But the underlying principle is that championships can get too old for patch eligibility.  Both the passage of time and the evolution of the league make championships from, say, the 1950s less relevant that those of today.  Degrees matter here; older titles are less relevant than newer ones. 
-* *Multiple championships count for more.* 
+* *Rule 2: At some point, titles time out.*
+  * This rule is meant to capture another league reality: it has gotten far harder to win.  It was just way easier to win in the 1950s, in a league of eight teams in which most players needed summer jobs, than it is today.  The modern NBA has both expanded in teams and in geography, but most importantly in impact.  There is far more money on the line, and far more incentive to win. 
+  * Just *when* titles time-out is a topic we'll discuss in depth.  But the underlying principle is that championships can get too old for patch eligibility.  
 
-Note we do not advocate the revocation of any team's *championships*.  These are clearly events which happened.  (And this isn't the NCAA!)  Every championship team won the only way it could: by beating the opponents placed in front of them.  Their era, relative competition, and circumstances were not up to them.  But the jersey patch is a separate matter.  In essence the *principles* inform a set of criteria by which championship wins can be patch-eligible, or not.  
+Note we do not advocate the revocation of any team's *championships*.  These are clearly events which happened.  (This isn't the NCAA!)  Every championship team won the only way it could: by beating the opponents in front of them.  Their competition, era, and circumstances were not up to them.  
 
-While there is room for subtlety in setting these criteria, there is little debate that two teams make mockery of the patch. 
+But the jersey patch is a separate matter.  In essence the *principles* inform a set of criteria by which championship wins can be either *patch-eligible*, or not.  
 
-
+While there is room for subtlety in setting these criteria, there is little room to doubt that two teams make a mockery of the patch. 
 
 
 ### Tier 2b: Absolute Jokes
@@ -103,14 +104,14 @@ While there is room for subtlety in setting these criteria, there is little deba
 * Atlanta Hawks (1x, 1958)
 * Sacramento Kings (1x, 1951)
 
-These two teams come off either as total wanna-be's, or just delusional.  (And were among the motivation for this writing.)  The Kings' sole championship came as the Rochester Royals in 1951, and the Hawks' came as the St Louis Hawks in 1958.  Both violate both of our principles for patches: they are super-old, and both teams have moved.  One changed names to boot.  The retention of the name "Hawks" is really the only bright spot here. 
+These two capture the point of our principles.  Both teams violate both of them.  They each won once, eons ago, and both have moved since.  The Kings' sole championship came as the Rochester Royals in 1951, and the Hawks' came as the St Louis Hawks in 1958.  Along with their moves, one changed names to boot.  The retention of the name "Hawks" is really the only bright spot here. 
 
-If there is no other take-away from this article, let it be a reminder of how pathetic these two teams look. 
+These two teams likely generate the majority of the double-takes referenced in our introduction.  They come off as either total wanna-be's, or just delusional.  (And were among the motivation for this writing.)  If there is no other take-away from this article, let it be a reminder of how pathetic they look. 
 
 
 ### Tier 2a: The Borderline 
 
-This leaves five teams on the fringe.  In order of most recent titles:
+This leaves the remaining five teams on the fringe.  In order of most recent championships:
 
 * Philadelphia 76ers (3x: 1955, 67, 83)
 * Washington Bullets/ Wizards (1x: 1978)
@@ -118,20 +119,20 @@ This leaves five teams on the fringe.  In order of most recent titles:
 * New York Knicks (2x: 1970, 73)
 * Milwaukee Bucks (1x: 1971)
 
-These teams share a common thread: each has been in their cities for a long time - and have not won in a long time.  They are the real test of our question as to *when* championships should time out.  This could be a rolling period of time, e.g. the past 30 years.  Or we could use one of the major milestones in league history.  The latter can track against major changes in the state of the league.  Today's champions have a tougher road to climb than teams before them did.  It was far less competitive - easier - to win in 1958, in a league of eight teams in which most players needed summer jobs.  The modern NBA has both expanded in teams and in geography, but most importantly in impact.  There is far more money on the line today, and far more incentive to win. 
+These teams share a common thread: each has been in their cities for a long time - and have not won in a long time.  They are the real test of our question as to *when* championships should time out.  
 
-But just when should these championships "time out"?  To start, we can consider the major events and eras of the league's history:
+Time-out could be a rolling period of time, for example the past 30 years' champions.  Or it could be a set milestone, before which championships are patch-ineligible.  Choices include the major events of the league's history:
 
 * League Founding: 1946
 * Racial Integration: 1950
-* NBA-ABA Merger: 1976
+* ABA Merger: 1976
 * Three Point Line Introduced: 1979
 * Magic/Bird Era Begins: 1979
 * Jordan Era Begins: 1984
 * Unrestricted Free Agency: 1988
 * Lebron Era Begins: 2003
 
-It can also help to review the league's champions by year.  A funny phenomenon happened in the late 1970s:
+It also helps to review the league's champions by year.  A funny phenomenon happened in the late 1970s:
 
 * 1975: Golden State Warriors
 * 1976: Boston Celtics
@@ -139,31 +140,34 @@ It can also help to review the league's champions by year.  A funny phenomenon h
 * 1978: Washington Bullets
 * 1979: Seattle Supersonics
 
-For half a decade, the typically dynastic NBA was all but overturned with upstart, one-time champions.  This list looks more believable for the modern NFL, where teams' fortunes rise and fall on a yearly basis.  Three of the five champions from this span have never won another title.  A fourth (Golden State) failed to for the next 40 years. 
+For half a decade, the typically dynastic NBA was all but overturned with upstart, one-time champions.  Three of the five champions from this span never won another title.  A fourth (Golden State) failed to for the next 40 years.  This list looks more typical of the modern NFL, where teams' fortunes rise and fall on a yearly basis. 
 
-What happened?  Bill Simmons's *Book of Basketball* tells great tales from this era, many from young Simmons' first-person perspective.  Two factors are particularly relevant.  First, the league had reached a nadir in popularity.  Its biggest games were not being aired on live TV.  Broad perception was that the NBA was *too black*, and could never be connect with mainstream American audiences.  Second, this was the *cocaine era*.  Tales abound of players' drug problems, affects on their careers and in-season performance.  (These two factors are of course inter-related.) 
+What happened?  Simmons's *Book of Basketball* again has great insight here.  Two factors are particularly relevant.  First, the league had reached a nadir in popularity.  Its biggest games were not aired on live TV.  Broad perception was that the NBA was too black to connect with mainstream American audiences.  Second, this was what Simmons calls the *cocaine era*.  Tales abound of players' drug problems, affects on their careers and in-season performance.  
 
-### The Cut-Off
+(These two factors are of course related.) 
 
-This informs our view of when to cut off patch-eligibility:  
 
-* Championships from the cocaine era no longer count.  
-* Nor do championships from before it.  
+### The Eligibility Cut-Off
+
+This informs our view of when to cut off patch-eligibility. 
+
+* Championships from the cocaine era are no longer patch-eligible.  
+* Neither are championships from before it. 
 
 The end of the cocaine era coincides with the 1979 introduction of the three-point line, and the same year's entry of Larry Bird and Magic Johnson.  The same season included Magic Johnson's famed NBA Finals triple-double, filling in at center for an injured Kareem Abdul-Jabbar.  This is where, for our purposes, the modern NBA begins: with the 1979-80 season.  
 
-The championships of the Bucks, Knicks, Blazers, and Bullets/ Wizards, are therefore left patch-ineligible.  All of these titles are now more than 40 years old.  Two of the four were one-time events, in a uniquely strange period in league history.  (And note Washington is a fringe case in the relocation/ renaming rule.)
+The championships of the Bucks, Knicks, Blazers, and Bullets/ Wizards, are all therefore rendered patch-ineligible.  All of these titles are now more than 40 years old.  Two of the four were one-time events, in a uniquely strange period in league history.  (And note Washington even renamed their team, testing the limits of Principle 1.)
 
-Of the borderline teams, only the 76ers 1983 championship remains patch-eligible.  Despite only five years passing between them, this championship seems far more current than the next most-recent Borderline team's championship (Washington in 1978).  This further reinforces the choice of 1979 as the cut-off season. 
+Of the borderline teams, only the 76ers 1983 championship remains patch-eligible.  Despite only five years passing between them, the 1983 season was ages more "modern" than the next most-recent borderline-championship (Washington in 1978).  This further reinforces the choice of 1979-80 as the cut-off season. 
 
 
 ## The New Patch List
 
-Six of the league's seventeen gold patches deserve to be revoked.  Two (Atlanta and Sacramento) ever only had laughable claims.  Four more (Milwaukee, New York, Portland, Washington) have claims which can be argued - but we find their championships to be outdated, from a begone era of NBA basketball. 
+Six of the league's seventeen gold patches deserve to be revoked.  Two patch-wearing teams (Atlanta and Sacramento) have only laughable claims.  Four more (Milwaukee, New York, Portland, Washington) have claims which can be argued - but we find their championships to be outdated, from a begone era of NBA basketball. 
 
 After the patch reshuffling:
 
-### Patches
+### Patches (11x)
 
 * *Tier 1a: The Perma-Dynasties*
 	* Boston Celtics (16x)
@@ -181,7 +185,7 @@ After the patch reshuffling:
 * *Tier 1d: The Borderline*
 	* Philadelphia 76ers (3x: 1955, 67, 83)
 
-### No Patches 
+### No Patches (19x)
 
 * *Tier 2a: Revoked*
 	* Washington Bullets/ Wizards (1x: 1978)
